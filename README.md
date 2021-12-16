@@ -9,16 +9,16 @@
 <h4>The weaknesses:</h4>
 <table>
   <tr>
-    <th>Suppose before user fill the form, the "Total value" would write "Found no expenses." instead output 0.</th>
-    <th>This is user output</th>
+    <th>Suppose before user fill the form, the "Total value" would write "Found no expenses." </th>
+    <th>Instead, output 0. This is user output</th>
   </tr>
   <tr>
     <td> <img src="https://github.com/0732sta/spend-count/blob/main/screenshot/4.png" width="450px" height="400"></td>
     <td><img src="https://github.com/0732sta/spend-count/blob/main/screenshot/3.png" width="450px" height="400"> </td>
   </tr>
   <tr>
-    <th>The analytic diagram based on year and should have color inside month which the subtotal expenses by month. instead shows total expenses.</th>
-    <th>This is user output</th>
+    <th>The analytic diagram is based on the year and should have colour inside the month which shows the subtotal expenses by month. a</th>
+    <th>Instead, it shows total expenses. This is user output</th>
   </tr>
   <tr>
     <td> <img src="https://github.com/0732sta/spend-count/blob/main/screenshot/5.png" width="450px" height="300"></td>

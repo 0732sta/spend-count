@@ -17,7 +17,7 @@
     <td><img src="https://github.com/0732sta/spend-count/blob/main/screenshot/3.png" width="450px" height="400"> </td>
   </tr>
   <tr>
-    <th>The analytic diagram based on year and subtotal by month. instead I give the total expenses to the user.</th>
+    <th>The analytic diagram based on year and should have color inside month which the subtotal expenses by month. instead I give the total expenses to the user.</th>
     <th>This is user output</th>
   </tr>
   <tr>

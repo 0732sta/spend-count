@@ -21,8 +21,8 @@
     <th>This is user output</th>
   </tr>
   <tr>
-    <td> <img src="https://github.com/0732sta/spend-count/blob/main/screenshot/5.png" width="450px" height="400"></td>
-    <td><img src="https://github.com/0732sta/spend-count/blob/main/screenshot/6.png" width="450px" height="400"> </td>
+    <td> <img src="https://github.com/0732sta/spend-count/blob/main/screenshot/5.png" width="400px" height="400"></td>
+    <td><img src="https://github.com/0732sta/spend-count/blob/main/screenshot/6.png" width="400px" height="200"> </td>
   </tr>
   </table>
 

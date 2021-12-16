@@ -10,7 +10,7 @@
 <table>
   <tr>
     <th>Suppose before user fill the form, the "Total value" would write "Found no expenses." instead output 0.</th>
-    <th>output</th>
+    <th>This is user output</th>
   </tr>
   <tr>
     <td> <img src="https://github.com/0732sta/spend-count/blob/main/screenshot/4.png" width="450px" height="400"></td>
@@ -18,7 +18,11 @@
   </tr>
   <tr>
     <th>The analytic diagram based on year and subtotal by month. instead I give the total expenses to the user.</th>
-    <th></th>
+    <th>This is user output</th>
+  </tr>
+  <tr>
+    <td> <img src="https://github.com/0732sta/spend-count/blob/main/screenshot/5.png" width="450px" height="400"></td>
+    <td><img src="https://github.com/0732sta/spend-count/blob/main/screenshot/6.png" width="450px" height="400"> </td>
   </tr>
   </table>
 

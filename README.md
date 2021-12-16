@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td> <img src="https://github.com/0732sta/spend-count/blob/main/screenshot/5.png" width="200px" height="100"></td>
-    <td><img src="https://github.com/0732sta/spend-count/blob/main/screenshot/6.png" width="400px" height="50"> </td>
+    <td><img src="https://github.com/0732sta/spend-count/blob/main/screenshot/6.png" width="800px" height="100"> </td>
   </tr>
   </table>
 
